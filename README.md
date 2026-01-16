@@ -1,10 +1,10 @@
 # YOLOv11 Rectangle Shape Detection Model
 
 ## Overview
-This project implements a **YOLOv11-based object detection model** trained on a custom dataset to accurately detect **rectangular shapes** in images. The model leverages deep learning techniques to provide high-speed, real-time detection, making it suitable for various applications such as industrial automation, computer vision, and robotics.
+This project implements a **YOLOv11-based object detection model** trained on a custom dataset to accurately detect **shapes** in images. The model leverages deep learning techniques to provide high-speed, real-time detection, making it suitable for various applications such as industrial automation, computer vision, and robotics.
 
 ## Features
-✅ **Trained on a Custom Dataset** for rectangle detection  
+✅ **Trained on a Custom Dataset** for shape detection  
 ✅ **High Accuracy and Real-Time Performance** using YOLOv11  
 ✅ **Python Implementation** with PyTorch and OpenCV  
 ✅ **Supports Image and Video Processing**  
@@ -62,7 +62,6 @@ If you want to **train YOLOv11 on a new dataset**, follow these steps:
 ## Future Enhancements
 🚀 Expand dataset for better generalization  
 📈 Optimize inference for edge devices  
-🛠️ Add support for detecting multiple geometric shapes  
 
 
 ## Contact
